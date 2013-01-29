@@ -1,2 +1,0 @@
-sugarcube-animation-test
-========================
